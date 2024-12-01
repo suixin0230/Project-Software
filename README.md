@@ -43,6 +43,43 @@ https://github.com/Blinue/Magpie
 15.video2x（视频图片超分工具）
 https://github.com/k4yt3x/video2x
 
+16.WizTree（磁盘分析）： 
+https://diskanalyzer.com/
+
+17.SpaceSniffer（磁盘分析）： http://www.uderzo.it/main_products/space_sniffer/
+
+18.Lemon（磁盘分析macOS）：
+https://lemon.qq.com/
+
+19.Github520（流畅访问Github）： https://github.com/521xueweihan/GitHub520
+下面的地址无需访问 GitHub 即可获取到最新的
+hosts 内容： 文件：https://raw.hellogithub.com/hosts 
+JSON：https://raw.hellogithub.com/hosts.json
+
+20.GetQzonehistory（获取QQ空间说说）： https://github.com/LibraHp/GetQzonehistory
+
+21.ToastFish（摸鱼背单词）： https://github.com/Uahh/ToastFish
+
+22.Qwen2.5-Coder（最新开源的千问代码大模型，本地部署效果很好）： https://github.com/QwenLM/Qwen2.5-Coder
+
+23.FileCodeBox（文件快递柜）： https://github.com/vastsa/FileCodeBox
+
+24.Bulk-Crap-Uninstaller（Windows卸载工具）： https://github.com/Klocman/Bulk-Crap-Uninstaller
+
+25.ScriptCat（油猴脚本替代者）： https://github.com/scriptscat/scriptcat
+
+26.Reader（摸鱼看小说）： 
+https://github.com/binbyu/Reader
+
+27.Thief（创新摸鱼神器）： 
+https://github.com/cteamx/Thief
+
+
+
+
+
+
+
 
 
 
