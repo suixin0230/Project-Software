@@ -11,7 +11,7 @@ http://free,apprcn.com/
 https://gofans.cn/
 
 5. Mergeek（一键订阅👆④）
-https://mergeek. com/free/apps
+https://mergeek.com/free/apps
 
 6. LuxirtySearch（搜索引擎）
 https://github.com/Korilku/luxirty-search
