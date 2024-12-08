@@ -34,7 +34,7 @@ https://github.com/Return-Log/Drive-Icon-Manager
 12. No Code（编写安全、可靠、没有 BUG 的应用）
 https://github.com/kelseyhightower/nocode
 
-13. OSSQ（Windows系统版本转换）
+13. OSSQ(Windows系统版本转换）
 https://ossq.cn/switching.html
 
 14. Magpieo（游戏窗口缩放工具①把不支持全屏的游戏全屏显示②通过AI算法，对游戏进行超分，提升游戏画质）
