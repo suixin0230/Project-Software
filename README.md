@@ -74,7 +74,8 @@ https://github.com/binbyu/Reader
 27.Thief（创新摸鱼神器）： 
 https://github.com/cteamx/Thief
 
-28.https://iui.su/3415(github)
+28.github（加速网站及软件）
+https://iui.su/3415
 
 
 
