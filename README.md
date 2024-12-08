@@ -5,7 +5,7 @@ unlocker
 https://www.ithome.com/zt/xijiayi
 
 3.反斗限免（专门收集各种限免收费软件）
-http://free,apprcn. com/
+http://free,apprcn. com
 
 4. GoFans（苹果软件资讯网站）
 https://gofans.cn/
