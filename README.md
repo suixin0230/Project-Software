@@ -7,16 +7,16 @@ https://www.ithome.com/zt/xijiayi
 3.反斗限免（专门收集各种限免收费软件）
 http://free,apprcn.com/
 
-4. GoFans（苹果软件资讯网站）
+4 .GoFans（苹果软件资讯网站）
 https://gofans.cn/
 
-5. Mergeek（一键订阅👆④）
+5 .Mergeek（一键订阅👆④）
 https://mergeek.com/free/apps
 
-6. LuxirtySearch（搜索引擎）
+6 .LuxirtySearch（搜索引擎）
 https://github.com/Korilku/luxirty-search
                                                     
-7. RunCat（奔跑小猫）                                 
+7 .RunCat（奔跑小猫）                                 
 https://github.com/Kyome22/RunCat_for_windows
                                                         
 8.真实好友（李跳跳开发者永久分享）
