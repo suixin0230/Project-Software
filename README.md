@@ -1,7 +1,7 @@
 1、lObit-unlocker（解决U盘弹出提示占用问题）https://www.iobit.com/en/iobit-unlocker.php或者
 unlocker
 
-2、it之家喜加一（steam、索尼、Epic等平台限免游戏咨询）
+2、it之家喜加一（steam、索尼、Epic等平台限免游戏咨询）      
 https://www.ithome.com/zt/xijiayi                       
                                                       
 3、反斗限免（专门收集各种限免收费软件）
@@ -54,7 +54,7 @@ https://lemon.qq.com/
 19、Github520（流畅访问Github）：                            https://github.com/521xueweihan/GitHub520
 
 下面的地址无需访问 GitHub 即可获取到最新的
-hosts 内容： 
+hosts 内容：                                            
 文件：https://raw.hellogithub.com/hosts 
 JSON：https://raw.hellogithub.com/hosts.json
 
