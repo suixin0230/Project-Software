@@ -55,7 +55,7 @@ https://lemon.qq.com/
 
 下面的地址无需访问 GitHub 即可获取到最新的
 hosts 内容：                                            
-文件：https://raw.hellogithub.com/hosts 
+文件：https://raw.hellogithub.com/hosts              
 JSON：https://raw.hellogithub.com/hosts.json
 
 20、GetQzonehistory（获取QQ空间说说）： https://github.com/LibraHp/GetQzonehistory
@@ -83,12 +83,10 @@ https://iui.su/3415
 29、Captura(录像截图)
 https://github.com/MathewSachin/Captura/
 
-30、OhFrickGoBack（Windows系统去广告工具）       
-
-①英文原版Github地址
-https://github.com/xM4ddy/OFGB       
-
-②国人汉化版Github地址 
+30、OhFrickGoBack（Windows系统去广告工具）                       
+①英文原版Github地址                                    
+https://github.com/xM4ddy/OFGB                                        
+②国人汉化版Github地址                                  
 https://github.com/zetaloop/OFGB
 
 
