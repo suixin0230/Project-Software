@@ -7,7 +7,7 @@ https://www.ithome.com/zt/xijiayi
 3、反斗限免（专门收集各种限免收费软件）
 http://free,apprcn.com/
 
-4、GoFans（苹果软件资讯网站）
+4、GoFans（苹果软件资讯网站）                           
 https://gofans.cn/
 
 5、Mergeek（一键订阅👆④）
@@ -37,7 +37,7 @@ https://github.com/kelseyhightower/nocode
 13、OSSQ(Windows系统版本转换）
 https://ossq.cn/switching.html
                                                        
-14、Magpieo（游戏窗口缩放工具①把不支持全屏的游戏全屏显示②通过AI算法，对游戏进行超分，提升游戏画质）
+14、Magpieo（游戏窗口缩放工具①把不支持全屏的游戏全屏显示②通过AI算法，对游戏进行超分，提升游戏画质）                    
 https://github.com/Blinue/Magpie
                                                     
 15、video2x（视频图片超分工具）
@@ -51,7 +51,7 @@ https://diskanalyzer.com/
 18、Lemon（磁盘分析macOS）：
 https://lemon.qq.com/
 
-19、Github520（流畅访问Github）： https://github.com/521xueweihan/GitHub520
+19、Github520（流畅访问Github）：                            https://github.com/521xueweihan/GitHub520
 
 下面的地址无需访问 GitHub 即可获取到最新的
 hosts 内容： 
