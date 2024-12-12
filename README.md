@@ -83,7 +83,7 @@ https://github.com/MathewSachin/Captura/
 30.OhFrickGoBack（Windows系统去广告工具）       
 
 ①英文原版Github地址
-https://github.com/xM4ddy/OFGB
+https://github.com/xM4ddy/OFGB       
 
 ②国人汉化版Github地址 
 https://github.com/zetaloop/OFGB
