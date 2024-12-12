@@ -80,6 +80,12 @@ https://iui.su/3415
 29.Captura(录像截图)
 https://github.com/MathewSachin/Captura/
 
+30.OhFrickGoBack（Windows系统去广告工具）
+英文原版Github地址
+https://github.com/xM4ddy/OFGB
+国人汉化版Github地址
+https://github.com/zetaloop/OFGB
+
 
 
 
