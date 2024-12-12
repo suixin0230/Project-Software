@@ -2,8 +2,8 @@
 unlocker
 
 2. it之家喜加一（steam、索尼、Epic等平台限免游戏咨询）
-https://www.ithome.com/zt/xijiayi
-
+https://www.ithome.com/zt/xijiayi                       
+                                                      
 3.反斗限免（专门收集各种限免收费软件）
 http://free,apprcn.com/
 
