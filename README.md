@@ -36,10 +36,10 @@ https://github.com/kelseyhightower/nocode
 
 13. OSSQ(Windows系统版本转换）
 https://ossq.cn/switching.html
-
+                                                       
 14. Magpieo（游戏窗口缩放工具①把不支持全屏的游戏全屏显示②通过AI算法，对游戏进行超分，提升游戏画质）
 https://github.com/Blinue/Magpie
-
+                                                    
 15.video2x（视频图片超分工具）
 https://github.com/k4yt3x/video2x
 
