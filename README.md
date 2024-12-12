@@ -84,6 +84,7 @@ https://github.com/MathewSachin/Captura/
 
 ①英文原版Github地址
 https://github.com/xM4ddy/OFGB
+
 ②国人汉化版Github地址 
 https://github.com/zetaloop/OFGB
 
