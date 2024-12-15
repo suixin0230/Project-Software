@@ -86,6 +86,9 @@ https://iui.su/3415
 
 27、Captura(录像截图)                                     
 https://github.com/MathewSachin/Captura/                        
+oCam（录屏软件）
+https://ocam.fileplanet.com/
+https://www.ghxi.com/ocam.html（单文件便携版）
 
 28、OhFrickGoBack（Windows系统去广告工具）                                 
 ①英文原版Github地址                                                                 
