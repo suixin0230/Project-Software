@@ -94,7 +94,7 @@ https://pixpin.cn/
 
 32、snipaste（部分免费的 截图＋贴图 软件）                
 https://zh.snipaste.com/                            
-https://www.ghxi.com/snipaste.html（绿色版）
+https://www.ghxi.com/snipaste.html （绿色版）
 
 33、FastStone Capture(屏幕截图)汉化版-果核剥壳           
 https://545c.com/d/7369060-43699975-5d3f09
