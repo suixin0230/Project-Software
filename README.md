@@ -99,7 +99,7 @@ https://pixpin.cn/
 https://zh.snipaste.com/                            
 https://www.ghxi.com/snipaste.html （绿色版）           
 
-33、FastStone Capture(屏幕截图)汉化版-果核剥壳           
+33、FastStone Capture(屏幕截图)汉化版                             
 https://545c.com/d/7369060-43699975-5d3f09
 
 34、7-zip（解压缩软件）
