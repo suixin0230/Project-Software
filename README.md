@@ -105,6 +105,8 @@ https://545c.com/d/7369060-43699975-5d3f09
 34、7-zip（解压缩软件）
 https://www.ghxi.com/7zip.html
 
+35、bandizip（跨平台解压缩软件）
+https://www.ghxi.com/bandizip.html
 
 
 
