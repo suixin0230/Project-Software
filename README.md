@@ -112,6 +112,8 @@ https://www.ghxi.com/bandizip.html
 
 WinRAR（解压缩软件）
 https://www.ghxi.com/winrarlh.html
+31、小丸工具箱（处理音视频等多媒体文件的软件）              
+https://maruko.appinn.me/
 
 
 
