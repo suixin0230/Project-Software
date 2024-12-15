@@ -108,6 +108,8 @@ https://www.ghxi.com/7zip.html
 35、bandizip（跨平台解压缩软件）
 https://www.ghxi.com/bandizip.html
 
+36、WinRAR（解压缩软件）
+https://www.ghxi.com/winrarlh.html
 
 
 
