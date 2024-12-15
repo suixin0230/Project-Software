@@ -70,6 +70,8 @@ https://github.com/QwenLM/Qwen2.5-Coder
 23、FileCodeBox（文件快递柜）                                     https://github.com/vastsa/FileCodeBox
 
 24、Bulk-Crap-Uninstaller（Windows卸载工具）                  https://github.com/Klocman/Bulk-Crap-Uninstaller
+GeekUNinstaller（单文件卸载工具）                         
+https://geekuninstaller.com/download
 
 25、ScriptCat（油猴脚本替代者）                                 https://github.com/scriptscat/scriptcat
 
@@ -95,20 +97,20 @@ https://github.com/zetaloop/OFGB
 https://pixpinapp.com/                              
 https://pixpin.cn/
 
-32、snipaste（部分免费的 截图＋贴图 软件）                
+snipaste（部分免费的 截图＋贴图 软件）                
 https://zh.snipaste.com/                            
 https://www.ghxi.com/snipaste.html （绿色版）           
 
-33、FastStone Capture(屏幕截图)汉化版                             
+FastStone Capture(屏幕截图)汉化版                             
 https://545c.com/d/7369060-43699975-5d3f09
 
 34、7-zip（解压缩软件）
 https://www.ghxi.com/7zip.html
 
-35、bandizip（跨平台解压缩软件）
+bandizip（跨平台解压缩软件）
 https://www.ghxi.com/bandizip.html
 
-36、WinRAR（解压缩软件）
+WinRAR（解压缩软件）
 https://www.ghxi.com/winrarlh.html
 
 
