@@ -88,6 +88,8 @@ https://github.com/xM4ddy/OFGB
 ②国人汉化版Github地址                                           
 https://github.com/zetaloop/OFGB                    
 
+31、pixpin
+https://pixpinapp.com/
 
 
 
