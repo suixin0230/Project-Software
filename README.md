@@ -89,7 +89,7 @@ https://github.com/xM4ddy/OFGB
 https://github.com/zetaloop/OFGB                    
 
 31、pixpin（功能强大使用简单的，截图/贴图/长截图/文字识别/标注软件）                                         
-https://pixpinapp.com/
+https://pixpinapp.com/                              
 https://pixpin.cn/
 
 
