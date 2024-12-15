@@ -49,6 +49,7 @@ https://github.com/k4yt3x/video2x
 https://diskanalyzer.com/
 
 17、SpaceSniffer（磁盘分析）                                          http://www.uderzo.it/main_products/space_sniffer/
+https://sourceforge.net/projects/spacesniffer/files/spacesniffer_1_3_0_2.zip/download
 
 18、Lemon（磁盘分析macOS）                                                  
 https://lemon.qq.com/
