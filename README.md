@@ -121,7 +121,7 @@ https://maruko.appinn.me/
 
 32、Potplayer（网络播放器）                             
 http://potplayer.tv/?lang=zh_TW                     
-https://www.ghxi.com/potplayer.html（绿色版）       
+https://www.ghxi.com/potplayer.html （绿色版）       
 
 
 
