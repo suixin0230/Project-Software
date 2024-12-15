@@ -1,6 +1,6 @@
 1、lObit-unlocker（解决U盘弹出提示占用问题）https://www.iobit.com/en/iobit-unlocker.php 或者
 unlocker                                       
-https://www.ghxi.com/iobitunlocker.html（UNlocker绿色版）                                              
+https://www.ghxi.com/iobitunlocker.html （UNlocker绿色版）                                              
 https://www.ghxi.com/?s=IObit （IObit绿色版合集）
 
 2、it之家喜加一（steam、索尼、Epic等平台限免游戏咨询）             
