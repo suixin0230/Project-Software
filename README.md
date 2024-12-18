@@ -91,7 +91,7 @@ https://ocam.fileplanet.com/
 https://www.ghxi.com/ocam.html （单文件便携版）        
 WinCam（录屏软件）                                        
 https://www.ntwind.com/software/wincam.html
-https://545c.com/d/7369060-37516964-23137b （绿色版）
+https://545c.com/d/7369060-37516964-23137b（绿色版）
 
 28、OhFrickGoBack（Windows系统去广告工具）                                 
 ①英文原版Github地址                                                                 
