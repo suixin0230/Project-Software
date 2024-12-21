@@ -102,6 +102,9 @@ https://github.com/xM4ddy/OFGB
 ②国人汉化版Github地址                                           
 https://github.com/zetaloop/OFGB                    
 
+uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                             
+                
+
 29、pixpin（免费，功能强大的，截图/贴图/长截图/文字识别/标注软件）                                         
 https://pixpinapp.com/                              
 https://pixpin.cn/
