@@ -126,7 +126,11 @@ WinRAR（解压缩软件）
 https://www.ghxi.com/winrarlh.html                  
 
 31、小丸工具箱（处理音视频等多媒体文件的软件）              
-https://maruko.appinn.me/
+https://maruko.appinn.me/                               
+
+UotanToolboxNT 柚坛工具箱（为玩机发烧友而生的全新现代化工具箱）                                                                                             
+https://toolbox.uotan.cn/                               
+https://github.com/Uotan-Dev/UotanToolboxNT                       
 
 32、Potplayer（网络播放器）                             
 http://potplayer.tv/?lang=zh_TW                     
