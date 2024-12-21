@@ -126,6 +126,17 @@ https://maruko.appinn.me/
 http://potplayer.tv/?lang=zh_TW                     
 https://www.ghxi.com/potplayer.html （绿色版）       
 
+33、Crystal Disk Mark（硬盘测试）                        
+https://545c.com/d/7369060-41496359-8cf8cc                    
+
+AS SSD Benchmark(硬盘测试工具)                                 
+https://590m.com/dir/7369060-29677324-6ce340        
+
+O&O DiskRecovery（数据恢复软件）                                 
+https://www.ghxi.com/oodiskrecovery.html              
+
+傲梅分区助手(AOMEI Partition Assistant)                                                
+https://545c.com/d/7369060-41454434-76ddd9                         
 
 
 
