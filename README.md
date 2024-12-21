@@ -138,6 +138,9 @@ UotanToolboxNT 柚坛工具箱（为玩机发烧友而生的全新现代化工�
 https://toolbox.uotan.cn/                               
 https://github.com/Uotan-Dev/UotanToolboxNT                       
 
+PowerToys（Windows效率工具）
+https://github.com/microsoft/PowerToys/releases/tag/v0.87.1
+
 32、Potplayer（网络播放器）                             
 http://potplayer.tv/?lang=zh_TW                     
 https://www.ghxi.com/potplayer.html （绿色版）       
