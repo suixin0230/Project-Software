@@ -27,7 +27,7 @@ https://github.com/zhongyang219/TrafficMonitor/releases/tag/V1.84.1
 GPU-Z                                                           
 https://www.ghxi.com/gpuz.html                       
 
-system information for Windows（小众系统信息工具）      
+system information for Windows（系统信息工具）      
 https://kdocs.cn/l/cuS9TkUAo1FN                                                     
                                                         
 8、真实好友（李跳跳开发者永久分享）                       
