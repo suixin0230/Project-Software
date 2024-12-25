@@ -157,6 +157,9 @@ https://www.ghxi.com/oodiskrecovery.html
 傲梅分区助手(AOMEI Partition Assistant)                                                
 https://545c.com/d/7369060-41454434-76ddd9                         
 
+34、鲸鲮Office（平板电脑版）                                    
+https://www.ghxi.com/jloffice.html                  
+
 
 
 
