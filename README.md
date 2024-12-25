@@ -40,7 +40,10 @@ https://www.maoken.com/
 https://github.com/ZCShou/GoGoGo
 
 11、Drive Icon Manager（①删除此电脑➡资源管理器侧边栏中的应用图标②修改注册表权限）                             
-https://github.com/Return-Log/Drive-Icon-Manager
+https://github.com/Return-Log/Drive-Icon-Manager          
+
+OISoul（系统调校程序）                                 
+https://545c.com/d/7369060-54694130-29f6ce          
 
 12、No Code（编写安全、可靠、没有 BUG 的应用）             
 https://github.com/kelseyhightower/nocode
