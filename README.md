@@ -47,7 +47,10 @@ https://545c.com/d/7369060-54694130-29f6ce
 
 ContextMenuManager（开源右键管理工具）                                            
 https://github.com/BluePointLilac/ContextMenuManager                                  
-https://545c.com/d/7369060-41178638-9c7e05          
+https://545c.com/d/7369060-41178638-9c7e05 
+                  
+Easy Context Menu（右键菜单管理）                                    
+https://www.sordum.org/downloads/?easy-context-menu
 
 12、No Code（编写安全、可靠、没有 BUG 的应用）             
 https://github.com/kelseyhightower/nocode
