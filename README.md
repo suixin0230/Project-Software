@@ -50,7 +50,8 @@ https://github.com/BluePointLilac/ContextMenuManager
 https://545c.com/d/7369060-41178638-9c7e05 
                   
 Easy Context Menu（右键菜单管理）                                    
-https://www.sordum.org/downloads/?easy-context-menu                                                       
+https://www.sordum.org/downloads/?easy-context-menu                                               
+           
 FileMenu Tools（右键增强）                                
 https://www.ghxi.com/filemenutools.html
 
@@ -90,7 +91,8 @@ https://github.com/QwenLM/Qwen2.5-Coder
 
 21、FileCodeBox（文件快递柜）                                     https://github.com/vastsa/FileCodeBox
 
-22、Bulk-Crap-Uninstaller（Windows卸载工具）                  https://github.com/Klocman/Bulk-Crap-Uninstaller
+22、Bulk-Crap-Uninstaller（Windows卸载工具）                  https://github.com/Klocman/Bulk-Crap-Uninstaller     
+
 GeekUNinstaller（单文件卸载工具）                         
 https://geekuninstaller.com/download
 
@@ -106,10 +108,12 @@ https://github.com/cteamx/Thief
 https://iui.su/3415
 
 27、Captura(录像截图)                                     
-https://github.com/MathewSachin/Captura/                        
+https://github.com/MathewSachin/Captura/                      
+                      
 oCam（录屏软件）                                        
-https://ocam.fileplanet.com/                         
-https://www.ghxi.com/ocam.html （单文件便携版）        
+https://ocam.fileplanet.com/                                   
+https://www.ghxi.com/ocam.html （单文件便携版）          
+    
 WinCam（录屏软件）                                        
 https://www.ntwind.com/software/wincam.html
 https://545c.com/d/7369060-37516964-23137b （绿色版）
@@ -120,9 +124,8 @@ https://github.com/xM4ddy/OFGB
 ②国人汉化版Github地址                                           
 https://github.com/zetaloop/OFGB                    
 
-uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                                https://github.com/gorhill/uBlock                          
-                
-
+uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                                https://github.com/gorhill/uBlock                            
+               
 29、pixpin（免费，功能强大的，截图/贴图/长截图/文字识别/标注软件）                                         
 https://pixpinapp.com/                              
 https://pixpin.cn/
