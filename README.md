@@ -175,9 +175,20 @@ https://545c.com/d/7369060-41454434-76ddd9
 https://www.ghxi.com/jloffice.html                  
 https://545c.com/d/7369060-60375631-027155           
 
+35、DupeGuru（重复文件查找工具）
+https://www.123pan.cn/s/HQeA-vTxSh.html               
 
+Czkawka（重复文件查找工具）
+https://545c.com/d/7369060-56531798-5a013d          
 
+Duplicate Same Files Searcher(重复文件搜索)             
+https://www.ghxi.com/dsfs.html
 
+Duplicate Cleaner（重复文件删除）
+https://545c.com/d/7369060-50766043-6119a6
+
+36、AskAdmin(软件文件限制访问工具)                      
+https://www.ghxi.com/askadmin.html                  
 
 
 
