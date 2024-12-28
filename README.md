@@ -43,7 +43,11 @@ https://github.com/ZCShou/GoGoGo
 https://github.com/Return-Log/Drive-Icon-Manager          
 
 OISoul（系统调校程序）                                 
-https://545c.com/d/7369060-54694130-29f6ce          
+https://545c.com/d/7369060-54694130-29f6ce         
+
+ContextMenuManager（开源右键管理工具）                                            
+https://github.com/BluePointLilac/ContextMenuManager                                  
+https://545c.com/d/7369060-41178638-9c7e05          
 
 12、No Code（编写安全、可靠、没有 BUG 的应用）             
 https://github.com/kelseyhightower/nocode
