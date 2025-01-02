@@ -134,7 +134,11 @@ https://zh.snipaste.com/
 https://www.ghxi.com/snipaste.html （绿色版）           
 
 FastStone Capture(屏幕截图)汉化版                             
-https://545c.com/d/7369060-43699975-5d3f09
+https://545c.com/d/7369060-43699975-5d3f09          
+
+ScreenCapture（免费开源截图工具）                            
+http://ct.ghpym.com/d/7369060-61762906-2ddb04       
+https://pan.quark.cn/s/17e34f6aec66#/list/share     
 
 30、7-zip（解压缩软件）
 https://www.ghxi.com/7zip.html
