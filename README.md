@@ -96,8 +96,8 @@ GeekUNinstaller（单文件卸载工具）
 https://geekuninstaller.com/download
 
 Total Uninstall（完全卸载）                              
-https://pan.quark.cn/s/bd095e50854c#/list/share            
-http://ct.ghpym.com/d/7369060-41184134-78dd76               
+https://pan.quark.cn/s/bd095e50854c#/list/share （绿色版）                                                               
+http://ct.ghpym.com/d/7369060-41184134-78dd76 （绿色版）                                                                       
 
 23、ScriptCat（油猴脚本替代者）                                 https://github.com/scriptscat/scriptcat
 
