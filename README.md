@@ -203,6 +203,8 @@ https://545c.com/d/7369060-50766043-6119a6
 36、AskAdmin(软件文件限制访问工具)                      
 https://www.ghxi.com/askadmin.html                  
 
+37、Baidun Armor(流氓软件屏蔽工具)                            
+http://ct.ghpym.com/d/7369060-64449427-228186?p=3519
 
 
 
