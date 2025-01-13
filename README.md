@@ -194,6 +194,9 @@ http://ct.ghpym.com/d/7369060-57802596-c94971
 Paperlib(论文管理工具)
 http://ct.ghpym.com/d/7369060-60389578-a7d2cf
 
+Revezone(思维管理工具) 
+http://ct.ghpym.com/d/7369060-62452801-b69f3c
+
 35、DupeGuru（重复文件查找工具）
 https://www.123pan.cn/s/HQeA-vTxSh.html               
 
