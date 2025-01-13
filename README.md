@@ -191,10 +191,10 @@ https://545c.com/d/7369060-60375631-027155
 坤Tools(文档编辑工具—文档转换、水印处理、图片转换及合并)                                               
 http://ct.ghpym.com/d/7369060-57802596-c94971
 
-Paperlib(论文管理工具)
+Paperlib(论文管理工具—定制化检索、论文评分 标签分组检索、支持纯文本笔记及markdown、一键导出论文、支持Word插件)      
 http://ct.ghpym.com/d/7369060-60389578-a7d2cf
 
-Revezone(思维管理工具) 
+Revezone(思维管理工具—实现 画布、笔记、文件管理等功能) 
 http://ct.ghpym.com/d/7369060-62452801-b69f3c
 
 35、DupeGuru（重复文件查找工具）
