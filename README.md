@@ -188,6 +188,9 @@ https://545c.com/d/7369060-41454434-76ddd9
 https://www.ghxi.com/jloffice.html                  
 https://545c.com/d/7369060-60375631-027155           
 
+坤Tools(文档编辑工具—文档转换、水印处理、图片转换及合并)                                               
+http://ct.ghpym.com/d/7369060-57802596-c94971
+
 35、DupeGuru（重复文件查找工具）
 https://www.123pan.cn/s/HQeA-vTxSh.html               
 
