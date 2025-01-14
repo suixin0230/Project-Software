@@ -44,6 +44,9 @@ https://github.com/Return-Log/Drive-Icon-Manager
 OISoul（系统调校程序）                                 
 https://545c.com/d/7369060-54694130-29f6ce         
 
+Windows11 轻松设置
+http://ct.ghpym.com/d/7369060-56297969-1c5ecc
+
 ContextMenuManager（开源右键管理工具）                                            
 https://github.com/BluePointLilac/ContextMenuManager                                  
 https://545c.com/d/7369060-41178638-9c7e05 
