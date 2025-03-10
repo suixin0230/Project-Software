@@ -52,7 +52,8 @@ https://github.com/BluePointLilac/ContextMenuManager
 https://545c.com/d/7369060-41178638-9c7e05 
                   
 Easy Context Menu（右键菜单管理）                                    
-https://www.sordum.org/downloads/?easy-context-menu                                               
+https://www.sordum.org/downloads/?easy-context-menu                                              
+https://www.sordum.org/7615/easy-context-menu-v1-6/    
            
 FileMenu Tools（右键增强）                                
 https://www.ghxi.com/filemenutools.html
