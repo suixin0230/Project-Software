@@ -218,6 +218,9 @@ https://www.ghxi.com/askadmin.html
 37、Baidun Armor(流氓软件屏蔽工具)                            
 http://ct.ghpym.com/d/7369060-64449427-228186?p=3519
 
+38、IDLE-CN（Python IDLE 汉化模块）                         
+https://github.com/zetaloop/IDLE-CN
+
 
 
 
