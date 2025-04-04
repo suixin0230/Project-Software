@@ -1,6 +1,6 @@
 1、lObit-unlocker(解决U盘弹出提示占用问题)https://www.iobit.com/en/iobit-unlocker.php                                                
-https://www.ghxi.com/iobitunlocker.html(UNlocker汉化版)                                                                                                   
-https://www.ghxi.com/?s=IObit(IObit绿色版合集)
+https://www.ghxi.com/iobitunlocker.html (UNlocker汉化版)                                                                                                   
+https://www.ghxi.com/?s=IObit (IObit绿色版合集)
 
 2、it之家喜加一(steam、索尼、Epic等平台限免游戏咨询)             
 https://www.ithome.com/zt/xijiayi                       
@@ -99,8 +99,8 @@ GeekUNinstaller(单文件卸载工具)
 https://geekuninstaller.com/download
 
 Total Uninstall(完全卸载)                              
-https://pan.quark.cn/s/bd095e50854c#/list/share(绿色版)                                                               
-http://ct.ghpym.com/d/7369060-41184134-78dd76(绿色版)                                                                       
+https://pan.quark.cn/s/bd095e50854c#/list/share (绿色版)                                                               
+http://ct.ghpym.com/d/7369060-41184134-78dd76 (绿色版)                                                                       
 
 HiBitUninstaller(全能卸载工具—用于Win8/8.1/10系统)        
 https://pan.quark.cn/s/eee0287fc89a#/list/share         
@@ -122,11 +122,11 @@ https://github.com/MathewSachin/Captura/
                       
 oCam(录屏软件)                                        
 https://ocam.fileplanet.com/                                   
-https://www.ghxi.com/ocam.html(单文件便携版)          
+https://www.ghxi.com/ocam.html (单文件便携版)          
     
 WinCam(录屏软件)                                        
 https://www.ntwind.com/software/wincam.html
-https://545c.com/d/7369060-37516964-23137b(绿色版)
+https://545c.com/d/7369060-37516964-23137b (绿色版)
 
 28、OhFrickGoBack(Windows系统去广告工具)                                 
 ①英文原版Github地址                                                                 
@@ -142,7 +142,7 @@ https://pixpin.cn/
 
 snipaste(部分免费的 截图＋贴图 软件)                
 https://zh.snipaste.com/                            
-https://www.ghxi.com/snipaste.html(绿色版)           
+https://www.ghxi.com/snipaste.html (绿色版)           
 
 FastStone Capture(屏幕截图)汉化版                             
 https://545c.com/d/7369060-43699975-5d3f09          
@@ -173,7 +173,7 @@ https://github.com/microsoft/PowerToys/releases/tag/v0.87.1
 
 32、Potplayer(网络播放器)                             
 http://potplayer.tv/?lang=zh_TW                     
-https://www.ghxi.com/potplayer.html(绿色版)       
+https://www.ghxi.com/potplayer.html (绿色版)       
 
 33、Crystal Disk Mark(硬盘测试)                        
 https://545c.com/d/7369060-41496359-8cf8cc                    
