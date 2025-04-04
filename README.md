@@ -1,5 +1,6 @@
-1、lObit-unlocker(解决U盘弹出提示占用问题)https://www.iobit.com/en/iobit-unlocker.php                                                
-https://www.ghxi.com/iobitunlocker.html (UNlocker汉化版)                                                                                                   
+1、lObit-unlocker(解决U盘弹出提示占用问题)
+https://www.iobit.com/en/iobit-unlocker.php                                                
+https://www.ghxi.com/iobitunlocker.html (IObit-unlocker汉化版)                                                                                                   
 https://www.ghxi.com/?s=IObit (IObit绿色版合集)
 
 2、it之家喜加一(steam、索尼、Epic等平台限免游戏咨询)             
@@ -72,28 +73,34 @@ https://github.com/k4yt3x/video2x
 16、WizTree(磁盘分析)                                                
 https://diskanalyzer.com/
 
-SpaceSniffer(磁盘分析)                                          http://www.uderzo.it/main_products/space_sniffer/
-https://sourceforge.net/projects/spacesniffer/files/spacesniffer_1_3_0_2.zip/download
+SpaceSniffer(磁盘分析)                                                                                                                                                       
+http://www.uderzo.it/main_products/space_sniffer/                                                                                                                           
+https://sourceforge.net/projects/spacesniffer/files/spacesniffer_1_3_0_2.zip/download                                                                                       
 
 Lemon(磁盘分析macOS)                                                  
 https://lemon.qq.com/
 
-17、Github520(流畅访问Github)                                                                       https://github.com/521xueweihan/GitHub520
+17、Github520(流畅访问Github)                                                                                                                                                
+https://github.com/521xueweihan/GitHub520
 
-下面的地址无需访问 GitHub 即可获取到最新的hosts内容           
+下面的地址无需访问 GitHub 即可获取到最新的hosts内容                                                                                                                            
 文件：https://raw.hellogithub.com/hosts                                     
 JSON：https://raw.hellogithub.com/hosts.json            
 
-18、GetQzonehistory(获取QQ空间说说)                                https://github.com/LibraHp/GetQzonehistory
+18、GetQzonehistory(获取QQ空间说说)                                                                                                                                          
+https://github.com/LibraHp/GetQzonehistory
 
-19、ToastFish(摸鱼背单词)                                         https://github.com/Uahh/ToastFish
+19、ToastFish(摸鱼背单词)                                                                                                                                                    
+https://github.com/Uahh/ToastFish
 
-20、Qwen2.5-Coder(最新开源的千问代码大模型，本地部署效果很好)                                                                
+20、Qwen2.5-Coder(最新开源的千问代码大模型，本地部署效果很好)                                                                                                                   
 https://github.com/QwenLM/Qwen2.5-Coder
 
-21、FileCodeBox(文件快递柜)                                     https://github.com/vastsa/FileCodeBox
+21、FileCodeBox(文件快递柜)                                                                                                                                                  
+https://github.com/vastsa/FileCodeBox
 
-22、Bulk-Crap-Uninstaller(Windows卸载工具)                  https://github.com/Klocman/Bulk-Crap-Uninstaller     
+22、Bulk-Crap-Uninstaller(Windows卸载工具)                                                                                                                                   
+https://github.com/Klocman/Bulk-Crap-Uninstaller     
 
 GeekUNinstaller(单文件卸载工具)                         
 https://geekuninstaller.com/download
@@ -106,7 +113,8 @@ HiBitUninstaller(全能卸载工具—用于Win8/8.1/10系统)
 https://pan.quark.cn/s/eee0287fc89a#/list/share         
 http://ct.ghpym.com/d/7369060-41267447-7009eb                                      
 
-23、ScriptCat(油猴脚本替代者)                                 https://github.com/scriptscat/scriptcat
+23、ScriptCat(油猴脚本替代者)                                                                                                         
+https://github.com/scriptscat/scriptcat
 
 24、Reader(摸鱼看小说)                                             
 https://github.com/binbyu/Reader
@@ -134,7 +142,7 @@ https://github.com/xM4ddy/OFGB
 ②国人汉化版Github地址                                           
 https://github.com/zetaloop/OFGB                    
 
-uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                                https://github.com/gorhill/uBlock                            
+uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                                                                                      https://github.com/gorhill/uBlock                            
                
 29、pixpin(免费，功能强大的，截图/贴图/长截图/文字识别/标注软件)                                         
 https://pixpinapp.com/                              
