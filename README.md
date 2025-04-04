@@ -1,6 +1,6 @@
-1、lObit-unlocker(解决U盘弹出提示占用问题)
-https://www.iobit.com/en/iobit-unlocker.php                                                
-https://www.ghxi.com/iobitunlocker.html (IObit-unlocker汉化版)                                                                                                   
+1、lObit-unlocker(解决U盘弹出提示占用问题)                                                                                                                                    
+https://www.iobit.com/en/iobit-unlocker.php                                                                                                                                 
+https://www.ghxi.com/iobitunlocker.html (IObit-unlocker汉化版)                                                                                                               
 https://www.ghxi.com/?s=IObit (IObit绿色版合集)
 
 2、it之家喜加一(steam、索尼、Epic等平台限免游戏咨询)             
@@ -21,7 +21,7 @@ https://github.com/Korilku/luxirty-search
 7、RunCat(奔跑小猫)                                            
 https://github.com/Kyome22/RunCat_for_windows            
 
-TrafficMonitor(网速、硬件监控软件—右下↘悬浮窗显示)
+TrafficMonitor(网速、硬件监控软件—右下↘悬浮窗显示)                                                                                                                            
 https://github.com/zhongyang219/TrafficMonitor/releases/tag/V1.84.1                                 
 
 GPU-Z                                                           
@@ -45,11 +45,11 @@ https://github.com/Return-Log/Drive-Icon-Manager
 OISoul(系统调校程序)                                 
 https://545c.com/d/7369060-54694130-29f6ce         
 
-Windows11 轻松设置
+Windows11 轻松设置                                                                                                                                                           
 http://ct.ghpym.com/d/7369060-56297969-1c5ecc
 
-ContextMenuManager(开源右键管理工具)                                            
-https://github.com/BluePointLilac/ContextMenuManager                                  
+ContextMenuManager(开源右键管理工具)                                                                                                                                         
+https://github.com/BluePointLilac/ContextMenuManager                                                                                                                        
 https://545c.com/d/7369060-41178638-9c7e05 
                   
 Easy Context Menu(右键菜单管理)                                                                                
@@ -128,108 +128,108 @@ https://iui.su/3415
 27、Captura(录像截图)                                     
 https://github.com/MathewSachin/Captura/                      
                       
-oCam(录屏软件)                                        
-https://ocam.fileplanet.com/                                   
+oCam(录屏软件)                                                                                                                                                               
+https://ocam.fileplanet.com/                                                                                                                                                
 https://www.ghxi.com/ocam.html (单文件便携版)          
     
-WinCam(录屏软件)                                        
-https://www.ntwind.com/software/wincam.html
-https://545c.com/d/7369060-37516964-23137b (绿色版)
+WinCam(录屏软件)                                                                                                                                                             
+https://www.ntwind.com/software/wincam.html                                                                                                                                 
+https://545c.com/d/7369060-37516964-23137b (绿色版)                                                                                                                          
 
-28、OhFrickGoBack(Windows系统去广告工具)                                 
-①英文原版Github地址                                                                 
-https://github.com/xM4ddy/OFGB                                            
-②国人汉化版Github地址                                           
-https://github.com/zetaloop/OFGB                    
+28、OhFrickGoBack(Windows系统去广告工具)                                                                                                                                     
+①英文原版Github地址                                                                                                                                                          
+https://github.com/xM4ddy/OFGB                                                                                                                                              
+②国人汉化版Github地址                                                                                                                                                        
+https://github.com/zetaloop/OFGB                                                                                                                                            
 
-uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                                                                                      https://github.com/gorhill/uBlock                            
+uBlock Origin (uBO)『它阻止广告，跟踪器，硬币矿工，弹出窗口，烦人的反拦截器，恶意软件网站等』                                                     https://github.com/gorhill/uBlock                            
                
-29、pixpin(免费，功能强大的，截图/贴图/长截图/文字识别/标注软件)                                         
-https://pixpinapp.com/                              
+29、pixpin(免费，功能强大的，截图/贴图/长截图/文字识别/标注软件)                                                                                                                 
+https://pixpinapp.com/                                                                                                                                                      
 https://pixpin.cn/
 
-snipaste(部分免费的 截图＋贴图 软件)                
-https://zh.snipaste.com/                            
-https://www.ghxi.com/snipaste.html (绿色版)           
+snipaste(部分免费的 截图＋贴图 软件)                                                                                                                                          
+https://zh.snipaste.com/                                                                                                                                                    
+https://www.ghxi.com/snipaste.html (绿色版)                                                                                                                                  
 
-FastStone Capture(屏幕截图)汉化版                             
-https://545c.com/d/7369060-43699975-5d3f09          
+FastStone Capture(屏幕截图)汉化版                                                                                                                                            
+https://545c.com/d/7369060-43699975-5d3f09                                                                                                                                  
 
-ScreenCapture(免费开源截图工具)                      
-https://github.com/xland/ScreenCapture                                   
-http://ct.ghpym.com/d/7369060-61762906-2ddb04               
-https://pan.quark.cn/s/17e34f6aec66#/list/share              
+ScreenCapture(免费开源截图工具)                                                                                                                                              
+https://github.com/xland/ScreenCapture                                                                                                                                      
+http://ct.ghpym.com/d/7369060-61762906-2ddb04                                                                                                                               
+https://pan.quark.cn/s/17e34f6aec66#/list/share                                                                                                                             
 
-30、7-zip(解压缩软件)
-https://www.ghxi.com/7zip.html
+30、7-zip(解压缩软件)                                                                                                                                                        
+https://www.ghxi.com/7zip.html                                                                                                                                              
 
-bandizip(跨平台解压缩软件)
-https://www.ghxi.com/bandizip.html
+bandizip(跨平台解压缩软件)                                                                                                                                                   
+https://www.ghxi.com/bandizip.html                                                                                                                                          
 
-WinRAR(解压缩软件)
-https://www.ghxi.com/winrarlh.html                  
+WinRAR(解压缩软件)                                                                                                                                                           
+https://www.ghxi.com/winrarlh.html                                                                                                                                          
 
-31、小丸工具箱(处理音视频等多媒体文件的软件)              
-https://maruko.appinn.me/                               
+31、小丸工具箱(处理音视频等多媒体文件的软件)                                                                                                                                    
+https://maruko.appinn.me/                                                                                                                                                   
 
-UotanToolboxNT 柚坛工具箱(为玩机发烧友而生的全新现代化工具箱)                                                                                             
-https://toolbox.uotan.cn/                               
-https://github.com/Uotan-Dev/UotanToolboxNT                       
+UotanToolboxNT 柚坛工具箱(为玩机发烧友而生的全新现代化工具箱)                                                                                                                   
+https://toolbox.uotan.cn/                                                                                                                                                   
+https://github.com/Uotan-Dev/UotanToolboxNT                                                                                                                                 
 
-PowerToys(Windows效率工具)
-https://github.com/microsoft/PowerToys/releases/tag/v0.87.1
+PowerToys(Windows效率工具)                                                                                                                                                   
+https://github.com/microsoft/PowerToys/releases/tag/v0.87.1                                                                                                                 
 
-32、Potplayer(网络播放器)                             
-http://potplayer.tv/?lang=zh_TW                     
-https://www.ghxi.com/potplayer.html (绿色版)       
+32、Potplayer(网络播放器)                                                                                                                                                    
+http://potplayer.tv/?lang=zh_TW                                                                                                                                             
+https://www.ghxi.com/potplayer.html (绿色版)                                                                                                                                 
 
-33、Crystal Disk Mark(硬盘测试)                        
-https://545c.com/d/7369060-41496359-8cf8cc                    
+33、Crystal Disk Mark(硬盘测试)                                                                                                                                              
+https://545c.com/d/7369060-41496359-8cf8cc                                                                                                                                  
 
-AS SSD Benchmark(硬盘测试工具)                                 
-https://590m.com/dir/7369060-29677324-6ce340        
+AS SSD Benchmark(硬盘测试工具)                                                                                                                                               
+https://590m.com/dir/7369060-29677324-6ce340                                                                                                                                
 
-O&O DiskRecovery(数据恢复软件)                                 
-https://www.ghxi.com/oodiskrecovery.html              
+O&O DiskRecovery(数据恢复软件)                                                                                                                                               
+https://www.ghxi.com/oodiskrecovery.html                                                                                                                                    
 
-WinFR(Windows文件恢复(微软命令行程序)的免费图形界面，帮您轻松恢复文件)
-https://www.winfr.com.cn/?from=thosefree.com
+WinFR(Windows文件恢复(微软命令行程序)的免费图形界面，帮您轻松恢复文件)                                                                                                           
+https://www.winfr.com.cn/?from=thosefree.com                                                                                                                                
 
-傲梅分区助手(AOMEI Partition Assistant)                                                
+傲梅分区助手(AOMEI Partition Assistant)                                                                                                                                      
 https://545c.com/d/7369060-41454434-76ddd9                         
 
-34、鲸鲮Office(平板电脑版)                                    
-https://www.ghxi.com/jloffice.html                  
+34、鲸鲮Office(平板电脑版)                                                                                                                                                   
+https://www.ghxi.com/jloffice.html                                                                                                                                          
 https://545c.com/d/7369060-60375631-027155           
 
-坤Tools(文档编辑工具—文档转换、水印处理、图片转换及合并)                                               
+坤Tools(文档编辑工具—文档转换、水印处理、图片转换及合并)                                                                                                                        
 http://ct.ghpym.com/d/7369060-57802596-c94971
 
-Paperlib(论文管理工具—定制化检索、论文评分 标签分组检索、支持纯文本笔记及markdown、一键导出论文、支持Word插件)      
+Paperlib(论文管理工具—定制化检索、论文评分 标签分组检索、支持纯文本笔记及markdown、一键导出论文、支持Word插件)                                                                      
 http://ct.ghpym.com/d/7369060-60389578-a7d2cf
 
-Revezone(思维管理工具—实现 画布、笔记、文件管理等功能) 
+Revezone(思维管理工具—实现 画布、笔记、文件管理等功能)                                                                                                                          
 http://ct.ghpym.com/d/7369060-62452801-b69f3c
 
-35、DupeGuru(重复文件查找工具)
+35、DupeGuru(重复文件查找工具)                                                                                                                                                
 https://www.123pan.cn/s/HQeA-vTxSh.html               
 
-Czkawka(重复文件查找工具)
+Czkawka(重复文件查找工具)                                                                                                                                                    
 https://545c.com/d/7369060-56531798-5a013d          
 
-Duplicate Same Files Searcher(重复文件搜索)             
+Duplicate Same Files Searcher(重复文件搜索)                                                                                                                                  
 https://www.ghxi.com/dsfs.html
 
-Duplicate Cleaner(重复文件删除)
+Duplicate Cleaner(重复文件删除)                                                                                                                                              
 https://545c.com/d/7369060-50766043-6119a6
 
-36、AskAdmin(软件文件限制访问工具)                      
+36、AskAdmin(软件文件限制访问工具)                                                                                                                                            
 https://www.ghxi.com/askadmin.html                  
 
-37、Baidun Armor(流氓软件屏蔽工具)                            
+37、Baidun Armor(流氓软件屏蔽工具)                                                                                                                                            
 http://ct.ghpym.com/d/7369060-64449427-228186?p=3519
 
-38、IDLE-CN(Python IDLE 汉化模块)                         
+38、IDLE-CN(Python IDLE 汉化模块)                                                                                                                                            
 https://github.com/zetaloop/IDLE-CN
 
 
