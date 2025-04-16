@@ -1,0 +1,12 @@
+1、Magpieo(游戏窗口缩放工具①把不支持全屏的游戏全屏显示②通过AI算法，对游戏进行超分，提升游戏画质)                                                                                  
+https://bgithub.xyz/Blinue/Magpie                                                                                                                                            
+
+2、小丸工具箱(处理音视频等多媒体文件的软件)                                                                                                                                    
+https://maruko.appinn.me/                                                                                                                                                   
+
+3、Potplayer(网络播放器)                                                                                                                                                    
+http://potplayer.tv/?lang=zh_TW                                                                                                                                             
+https://www.ghxi.com/potplayer.html (绿色版)                                                                                                                                 
+
+4、mediago(在线音视频流媒体下载器)                                                                                                                                               
+https://bgithub.xyz/caorushizi/mediago                                                                                                                                      
