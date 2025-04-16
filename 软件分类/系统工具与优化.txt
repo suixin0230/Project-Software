@@ -1,0 +1,32 @@
+1、lObit-unlocker(解决U盘弹出提示占用问题)                                                                                                                                    
+https://www.iobit.com/en/iobit-unlocker.php                                                                                                                                 
+https://www.ghxi.com/iobitunlocker.html (IObit-unlocker汉化版)                                                                                                               
+https://www.ghxi.com/?s=IObit (IObit绿色版合集)                                                     
+
+2、GPU-Z                                                                                                                                                                       
+https://www.ghxi.com/gpuz.html                                                                      
+
+3、TrafficMonitor(网速、硬件监控软件—右下↘悬浮窗显示)                                                                                                                            
+https://github.com/zhongyang219/TrafficMonitor/releases/tag/V1.84.1                                       
+
+4、RunCat(奔跑小猫)                                                                                                                                                          
+https://github.com/Kyome22/RunCat_for_windows                                                        
+
+5、system information for Windows(系统信息工具)                                                                                                                                 
+https://kdocs.cn/l/cuS9TkUAo1FN                                                                            
+
+6、OISoul(系统调校程序)                                                                                                                                                         
+https://545c.com/d/7369060-54694130-29f6ce                                                                                                                                  
+
+7、Windows11 轻松设置                                                                                                                                                           
+http://ct.ghpym.com/d/7369060-56297969-1c5ecc                                                                                                                               
+
+8、ContextMenuManager(开源右键管理工具)                                                                                                                                         
+https://github.com/BluePointLilac/ContextMenuManager                                                                                                                        
+https://545c.com/d/7369060-41178638-9c7e05                                                                                                                                  
+
+9、Easy Context Menu(右键菜单管理)                                                                                                                                              
+https://www.sordum.org/7615/easy-context-menu-v1-6/                                                                                                                         
+
+10、FileMenu Tools(右键增强)                                                                                                                                                     
+https://www.ghxi.com/filemenutools.html                                                                
