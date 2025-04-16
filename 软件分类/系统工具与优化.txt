@@ -30,3 +30,17 @@ https://www.sordum.org/7615/easy-context-menu-v1-6/
 
 10、FileMenu Tools(右键增强)                                                                                                                                                     
 https://www.ghxi.com/filemenutools.html                                                                
+
+11、LuxirtySearch(搜索引擎)                                                                                                                                                   
+https://bgithub.xyz/Korilku/luxirty-search                                                                                                                 
+
+12、PowerToys(Windows效率工具)                                                                                                                                                   
+https://bgithub.xyz/microsoft/PowerToys/releases/tag/v0.87.1                                                                                                                 
+
+
+
+
+
+
+
+
