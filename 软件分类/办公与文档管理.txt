@@ -10,3 +10,6 @@ http://ct.ghpym.com/d/7369060-60389578-a7d2cf
 
 4、Revezone(思维管理工具—实现 画布、笔记、文件管理等功能)                                                                                                                          
 http://ct.ghpym.com/d/7369060-62452801-b69f3c                                                                                                                               
+
+5、FileCodeBox(文件快递柜)                                                                                                                                                  
+https://bgithub.xyz/vastsa/FileCodeBox                                                                                                                                       
