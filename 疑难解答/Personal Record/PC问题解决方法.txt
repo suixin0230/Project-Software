@@ -1,0 +1,49 @@
+1.关闭传递优化(Delivery Optimization)即服务→Delivery Optimization
+关闭路径：注册表→计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc
+→双击Start/右键Start→更改数值数据(V):"0"→确认退出即可
+
+2.Windows系统可选功能下载很慢解决办法：
+点击“查看可用功能”、“查看添加的功能”，
+反复点击一两次即可（邪修功能—个人感觉有效，可能是BUG吧。）
+
+3.Windows添加无线显示器显示无法添加、安装解决办法？
+方法一：关闭按流量计费的连接并运行相应代码
+1.1 按【Win+i键】打开设置
+1.2 点击【网络和Internet】；点击【WLAN】
+1.3 点击【属性】
+1.4 【按流量计费的连接】设置为【关】
+1.5 按【Win+X键】；点击【终端管理员】
+1.6 输入【DISM /Online /Add-Capability /CapabilityName:App.WirelessDisplay.Connect~~~~0.0.1.0】；按【回车（Enter键）】
+1.7 提示【操作成功完成】（方法一完成）
+
+方法二：启动Windows Installer和Windows update服务
+2.1 按【Win+R键】打开运行窗
+2.2 输入【services.msc】；点击【确定】打开服务
+2.3 双击【Windows Installer】
+2.4 点击【启动】；点击【确定】
+2.5 双击【Windows更新（也叫Windows Update）】
+2.6 点击【启动】；点击【确定】（方法二完成，添加成功后可修改回去）
+
+方法三：删除DataStore和Download文件夹
+3.1 打开【C盘】；双击【Windows（文件夹）】
+3.2 双击【SoftwareDistribution（文件夹）】
+3.3 选中【DataStore（文件夹）】和【Download（文件夹）】右键【删除】（方法三完成）附加：如果提示占用无法删除，依次操作【Win+R键】-【输入 resmon】-【CPU（右上角）】-【搜索句柄 输入 DataStore 或 Download】-【右键 结束进程 结束进程】
+
+4.Windows 10/11 LTSC 快速安装应用商店
+打开power shell(管理员)→在Windows power shell里输入(回车执行即可)：wsreset -i
+
+5.电脑连上网但无法访问Internet解决办法：
+方法一：运行CMD(以管理员身份运行)→输入cd..(回车执行)→再输入cd..(回车执行)→最后输入netsh winsock reset(回车执行即可，而后按照提示重启电脑)
+
+方法二：设置→网络和Internet→高级网络设置→网络重置→立即重置→等待重启电脑即可
+
+方法三：右键此电脑→管理→设备管理器→网络适配器→右键网卡→卸载设备(不要点击删除驱动▢复选框)→点击窗口上方小电脑图标【扫描检测硬件改动】自动刷新驱动
+
+方法四：重启路由器→稍后尝试重连即可
+
+6.高画质提取PPT/Word/Excel中的图片、音视频方法【仅支持Office 2007 以来的新格式，即以 .docx、.xlsx 和 .pptx 为后缀名的 Office 文件】：
+    使用 WinRAR、7-zip 等压缩软件右键解压Office 文件【也可以改文件后缀为压缩文件格式再解压】
+    在Office办公三件套中，图片、音频、视频文件分别保存在这些路径下：Word为 \word\media\，Excel为 \xl\media\，PowerPoint 为 \ppt\media\
+
+7.如何删除已经打开的程序的文件(文件被占用解决办法)：
+复制完整的文件名（包括文件名和后缀），然后打开任务管理器→性能→右上角三个点→资源监视器→cpu→关联的句柄→右边的输入框把刚刚的文件名复制进去再搜索，就能看到占用的程序，右键结束进程后，文件就能删除了
