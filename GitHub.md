@@ -17,3 +17,6 @@
    [IDLE-CN(Python IDLE 汉化模块)](https://bgithub.xyz/zetaloop/IDLE-CN)
 
 4. [No Code(编写安全、可靠、没有 BUG 的应用)](https://bgithub.xyz/kelseyhightower/nocode)
+
+   
+
