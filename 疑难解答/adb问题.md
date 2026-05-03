@@ -27,7 +27,43 @@
 
 
 
-3. 柚坛工具箱点击应用管理获取应用列表闪退解决办法
+3. 华为用有线ADB开启无线调试办法(提前在电脑上配置好ADB环境)
+
+   > ①以管理员身份运行`cmd` 或者`power shell`
+   >
+   > ②打开手机`开发者模式`(连续点7次版本号，输入密码即可)，进入开发者模式(*系统和更新→开发人员选项→打开 "仅充电"模式下允许ADB调试、USB调试*)
+   >
+   > ③找一条**带数据传输功能**的手机充电线，连接手机和电脑
+   >
+   > ④USB 连接方式 选择 `仅充电`，点击复选框`☑ 始终允许使用这台计算机进行调试`，点击确定
+   >
+   > ⑤在电脑`cmd`或者`power shell`中
+   >
+   > 1. 输入`adb devices`，出现设备
+   >
+   > `List of devices attached`
+   > `XXXXXXXXXXXXXXXX	device`
+   >
+   > 即可
+   >
+   > 2. 接着输入`adb tcpip 5555`出现
+   >
+   > `restarting in TCP mode port：5555`
+   >
+   > 即可
+   >
+   > ⑥拔掉数据线，在手机shizuku中点击无线调试启动→5555
+   >
+   > 等待出现下列提示即可
+   >
+   > Service started, this window will be automatically
+   > closed in 3 seconds
+   >
+   > ⑦完成调试
+
+
+
+4. 柚坛工具箱点击应用管理获取应用列表闪退解决办法
 
 设置 → 系统 → 可选功能 → 相关设置 → 更多 Windows 功能 →
 
@@ -42,12 +78,10 @@ ASP.NET 4.8）而后按照提示确定重启即可
 
 
 
-4. 关于卸载应用，加入一个常见错误：DELETE_FAILED_INTERNAL_ERROR
+5. 关于卸载应用，加入一个常见错误：DELETE_FAILED_INTERNAL_ERROR
 
 对于卸载内置应用，使用常规的
 pm uninstall package_name
 会出现错误 DELETE_FAILED_INTERNAL_ERROR，我之前就遇上了好几次，在网上说需要设置--user，正确代码为：
 pm uninstall --user 0 package_name
-
-
 
