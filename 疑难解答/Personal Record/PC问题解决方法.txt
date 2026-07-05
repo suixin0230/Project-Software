@@ -27,7 +27,9 @@
 方法三：删除DataStore和Download文件夹
 3.1 打开【C盘】；双击【Windows（文件夹）】
 3.2 双击【SoftwareDistribution（文件夹）】
-3.3 选中【DataStore（文件夹）】和【Download（文件夹）】右键【删除】（方法三完成）附加：如果提示占用无法删除，依次操作【Win+R键】-【输入 resmon】-【CPU（右上角）】-【搜索句柄 输入 DataStore 或 Download】-【右键 结束进程 结束进程】
+3.3 选中【DataStore（文件夹）】和【Download（文件夹）】右键【删除】
+（方法三完成）附加：如果提示占用无法删除，依次操作【Win+R键】-【输入 resmon】-
+【CPU（右上角）】-【搜索句柄 输入 DataStore 或 Download】-【右键 结束进程 结束进程】
 
 4.Windows 10/11 LTSC 快速安装应用商店
 打开power shell(管理员)→在Windows power shell里输入(回车执行即可)：wsreset -i
@@ -46,7 +48,8 @@
     在Office办公三件套中，图片、音频、视频文件分别保存在这些路径下：Word为 \word\media\，Excel为 \xl\media\，PowerPoint 为 \ppt\media\
 
 7.如何删除已经打开的程序的文件(文件被占用解决办法)：
-复制完整的文件名（包括文件名和后缀），然后打开任务管理器→性能→右上角三个点→资源监视器→cpu→关联的句柄→右边的输入框把刚刚的文件名复制进去再搜索，就能看到占用的程序，右键结束进程后，文件就能删除了
+复制完整的文件名（包括文件名和后缀），然后打开任务管理器→性能→右上角三个点→资源监视器→cpu→
+关联的句柄→右边的输入框把刚刚的文件名复制进去再搜索，就能看到占用的程序，右键结束进程后，文件就能删除了
 
 8.微软输入法删除多余“语言键盘”方法：
 1. 设置 → 时间和语言 → 语言与区域 → 语言 → 首选语言 → 添加语言 → 选择(要删除的语言键盘所属)语言类型 → 选择安装 → 等待安装完成后进入下一步
@@ -54,3 +57,13 @@
 
 9.PDF（小部分）背景去除不掉解决办法
 以福昕PDF编辑器为例：保护→密文→选中【擦除】（对需要遮盖/删除的背景，拖动“+”框选即可）→没有问题点击【确认】即可
+
+10.IDM文件下载格式汇总
+SUN MAR DEC AAC AAM AAS ABC ABF ABK ABS ABT ACE ACM ACP ACT ADA ADB ADF ADI ADM ADP ADR ADS ADT AFM AIF AIFC AIFF AIM AIS AKW ALB ALL AMR AMS ANC AND ANI ANS ANSI ANT ANY AOL API APK APS ARC ARI ARJ ART ASA ASC ASD ASE ASF ASM ASO ASP ASR ASV ASX ATW AVB AVI AVR AVS AWD AWR AXX BAK BAS BASH BAT BDF BGL BIF BIFF BIN BKS BMK BMP BOOK BRX BSP BTM BUD BUN BWV CAB CAD CAL CALS CAP CAS CAST CCB CCH CCO CCT CDA CDF CDI CDM CDR CDT CDX CFG CGI CGM CHK CHM CHR CIF CIL CLIP CLL CLP CLS CMD CMF CMV CMX CNF CNM CNT COD CODE COM CPL CPO CPP CPR CPT CPX CRD CRP CRT CSC CSP CST CSV CTL CUR CXX DARK DAT DATE DBC DBF DBX DCA DCM DCS DCT DCU DCX DEM DER DEWF DIB DIC DIF DIG DIR DIZ DLG DLL DLS DMD DMF DOBE DOC DOOM DOS DOT DRAW DRV DRW DSF DSG DSM DSP DSQ DSW DTD DUKE DUN DWG DXF DXR EDA EDD EDIT EMD EMF EML EPS EXE FAST FAV FAX FCD FDF FFA FFK FFL FFO FIF FLA FLAC FLC FLIC FML FNG FNK FON FONT FOR FOT FRT FRX FTG FTS FUNK GAL GDB
+
+11.便携版软件放到非系统盘打不开解决办法
+鼠标单击选中软件安装目录文件夹→属性→
+情况一：安全→编辑→给予当前用户下列权限（1.读取和执行；2.列出文件夹内容；3.读取；4.写入）
+情况二：安全→编辑(显示灰色)；则在安全→高级→所有者(右侧更改)→高级(在"选择用户或组"下方)→对象类型(全选)→确认→立即查找("一般性查询"右侧)→
+搜索结果(选择管理员Administrators)→搜索结果(右侧"确认")→一直确认【到"Google Chrome(谷歌浏览器)的高级安全设置"窗口停下】→选择☑替换子容器和对象的所有者→
+一直确认即可
