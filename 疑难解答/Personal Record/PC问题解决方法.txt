@@ -70,3 +70,6 @@ SUN MAR DEC AAC AAM AAS ABC ABF ABK ABS ABT ACE ACM ACP ACT ADA ADB ADF ADI ADM 
 
 12.如何将网上下载的markdown文件中的图片保存到特定位置【以"Typora"软件为例】
 格式→图像→复制所有图片到→选择图片存储路径→选择具体文件夹→点击"选择"即可完成
+
+13.批量提取文件名_批处理文件-文件内容如下↓（若其他文件格式不支持修改，将编码格式改为【ANSI】）
+DIR *.*/ B > Name_list.txt
