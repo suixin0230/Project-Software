@@ -73,3 +73,11 @@ SUN MAR DEC AAC AAM AAS ABC ABF ABK ABS ABT ACE ACM ACP ACT ADA ADB ADF ADI ADM 
 
 13.批量提取文件名_批处理文件-文件内容如下↓（若其他文件格式不支持修改，将编码格式改为【ANSI】）
 DIR *.*/ B > Name_list.txt
+
+14.在重装Windows系统前如何备份驱动，以及重装后如何快速一键恢复驱动【适用场景：非常冷门、难以寻找驱动的老旧设备或特殊硬件】
+①备份（导出）驱动（假设驱动保存在D:\qudong）
+dism /online /export-driver /destination:D:\qudong
+需提前在（系统盘以外的盘符）新建一个名为“qudong”的文件夹作为驱动备份路径
+②恢复（导入）驱动（假设驱动保存在 D:\qudong）
+Windows 11 新版：可在“设备管理器”中直接导入；也可以使用命令导入【dism /online /add-driver /driver:D:\qudong /recurse】
+Windows 10 及旧版系统：需要打开命令行，使用以下命令导入：【dism /online /add-driver /driver:D:\qudong /recurse】
