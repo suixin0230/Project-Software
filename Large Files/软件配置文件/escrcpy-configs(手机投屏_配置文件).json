@@ -1,0 +1,109 @@
+{
+	"common": {
+		"isDark": false,
+		"theme": "system",
+		"language": "zh-CN",
+		"savePath": "C:\\Users\\LLZ\\Desktop",
+		"adbPath": "C:\\Users\\LLZ\\AppData\\Local\\Temp\\3BkXI8Oj4WU4G4y9EtnOl2rW4FG\\resources\\extra\\win\\scrcpy\\adb.EXE",
+		"gnirehtetPath": "C:\\Users\\LLZ\\AppData\\Local\\Temp\\3BkXI8Oj4WU4G4y9EtnOl2rW4FG\\resources\\extra\\win\\gnirehtet\\gnirehtet.EXE",
+		"scrcpyPath": "C:\\Users\\LLZ\\AppData\\Local\\Temp\\3BkXI8Oj4WU4G4y9EtnOl2rW4FG\\resources\\extra\\win\\scrcpy\\scrcpy.EXE",
+		"autoConnect": true,
+		"imeFix": true,
+		"enableSystemTerminal": false,
+		"concurrencyLimit": 5,
+		"appCloseCode": 1
+	},
+	"scrcpy": {
+		"global": {
+			"--window-x": 1440,
+			"--window-y": 15,
+			"--window-borderless": false,
+			"--always-on-top": false,
+			"--disable-screensaver": false,
+			"--keyboard": "uhid"
+		},
+		"deviceScope": "global",
+		"192.168.137.34:5555": {
+			"--keyboard": "sdk",
+			"--prefer-text": false,
+			"--raw-key-events": false
+		}
+	},
+	"device": {
+		"192.168.137.34:5555": {
+			"id": "192.168.137.34:5555",
+			"type": "offline",
+			"path": "product:CHL-AN00",
+			"product": "model:CHL_AN00",
+			"model": "device:HNCHL-MC",
+			"device": "transport_id:7",
+			"serialNo": "ALWQ6R1B05005265",
+			"screenWidth": 1080,
+			"screenHeight": 2400,
+			"status": "offline",
+			"name": "CHL_AN00",
+			"wifi": true,
+			"remark": "荣耀 CHL_AN00（无线）"
+		},
+		"ALWQ6R1B05005265": {
+			"id": "ALWQ6R1B05005265",
+			"type": "offline",
+			"path": "product:CHL-AN00",
+			"product": "model:CHL_AN00",
+			"model": "device:HNCHL-MC",
+			"device": "transport_id:2",
+			"serialNo": "ALWQ6R1B05005265",
+			"screenWidth": 1080,
+			"screenHeight": 2400,
+			"status": "offline",
+			"name": "CHL_AN00",
+			"wifi": false,
+			"remark": "荣耀 CHL_AN00（有线）"
+		}
+	},
+	"control": {
+		"sidebarLayout": [
+			"launch",
+			"turnScreenOff",
+			"rotation",
+			"volume",
+			"screenshot",
+			"install",
+			"explorer",
+			"terminal",
+			"gnirehtet",
+			"copilot",
+			"automation"
+		],
+		"barLayout": [
+			"switch",
+			"home",
+			"back",
+			"launch",
+			"turn-screen-off",
+			"notification",
+			"power",
+			"rotation",
+			"volume",
+			"screenshot",
+			"reboot",
+			"install",
+			"explorer",
+			"terminal",
+			"task",
+			"gnirehtet",
+			"copilot",
+			"automation"
+		]
+	},
+	"copilot": {
+		"provider": "BigModel",
+		"baseUrl": "https://open.bigmodel.cn/api/paas/v4",
+		"model": "autoglm-phone",
+		"apiKey": "",
+		"maxSteps": 50,
+		"lang": "cn",
+		"quiet": false,
+		"prompts": []
+	}
+}
